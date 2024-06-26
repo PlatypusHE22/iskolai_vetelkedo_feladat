@@ -72,11 +72,11 @@ namespace Vetelkedo {
                     // Szakma alapján
                     case 1:
                         Console.WriteLine("Adja meg egy szakma nevét");
-                        string szakmaNeve = Console.ReadLine();
+                        string szakmaNeve = Console.ReadLine().Trim().ToLower();
 
                         foreach (Versenyzo versenyzo in versenyzok)
                         {
-                            if (versenyzo.Szak == szakmaNeve)
+                            if (versenyzo.Szak.Trim().ToLower() == szakmaNeve)
                             {
                                 talalt = true;
                                 talalatok.Add(versenyzo);
