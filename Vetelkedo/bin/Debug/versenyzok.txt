@@ -4,3 +4,65 @@ Nagy Árpád
 közgazdász
 Minta János
 vonatkerékpumpáló
+Baranyai Anna
+hegesztő
+Kovács Gábor
+ügyvéd
+Szabó István
+orvos
+Nagy Anna
+tanár
+Tóth Péter
+mérnök
+Horváth László
+rendőr
+Varga Mária
+ápoló
+Kiss Zoltán
+villanyszerelő
+Molnár Katalin
+színész
+Németh Tamás
+informatikus
+Farkas Éva
+könyvelő
+Papp József
+építész
+Juhász Judit
+pszichológus
+Balogh Ferenc
+autószerelő
+Lakatos Róbert
+szakács
+Mészáros Adrienn
+fodrász
+Simon Attila
+fotós
+Rácz Beáta
+újságíró
+Fekete Dániel
+bolti eladó
+Oláh Eszter
+ügyfélszolgálati munkatárs
+Takács Krisztián
+kamionsofőr
+Szilágyi Lilla
+grafikus
+Illés Norbert
+tűzoltó
+Sárközi Nóra
+biológus
+Pál Gergely
+könyvtáros
+Lázár Zsuzsanna
+logopédus
+Márton Balázs
+szobafestő
+Pataki Edit
+gyógyszerész
+Hajdu Ádám
+marketing szakember
+Török Zsombor
+zenész
+Hajnal Levente
+táncos
