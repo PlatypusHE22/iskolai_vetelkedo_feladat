@@ -1,0 +1,7 @@
+D:\Suli\C#\Vetelkedo\Vetelkedo\bin\Debug\Vetelkedo.exe
+D:\Suli\C#\Vetelkedo\Vetelkedo\bin\Debug\Vetelkedo.pdb
+D:\Suli\C#\Vetelkedo\Vetelkedo\obj\Debug\Vetelkedo.csproj.AssemblyReference.cache
+D:\Suli\C#\Vetelkedo\Vetelkedo\obj\Debug\Vetelkedo.csproj.CoreCompileInputs.cache
+D:\Suli\C#\Vetelkedo\Vetelkedo\obj\Debug\Vetelkedo.exe
+D:\Suli\C#\Vetelkedo\Vetelkedo\obj\Debug\Vetelkedo.pdb
+D:\Suli\C#\Vetelkedo\Vetelkedo\bin\Debug\versenyzok.txt
